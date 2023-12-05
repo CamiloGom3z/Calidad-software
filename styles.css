@@ -55,7 +55,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(la-calidad-del-software-1536x864.jpg);
+  background-image: url(./assets/la-calidad-del-software-1536x864.jpg);
 }
 
 .content-1 > h2,
@@ -106,7 +106,7 @@ p {
 }
 
 .video {
-  background-image: url(la-calidad-del-software-1536x864.jpg);
+  background-image: url(./assets/la-calidad-del-software-1536x864.jpg);
 }
 
 .youtube {
